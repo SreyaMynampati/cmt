@@ -1,0 +1,8 @@
+{
+  "source_dataset": "../data/synthetic/cmt_synthetic_dataset.csv",
+  "generated_dataset": "../data/synthetic/cmt_synthetic_generated.csv",
+  "n_generated": 1998,
+  "checkpoint_dir": "../models/checkpoints_cgan",
+  "latent_dim": 64,
+  "epochs": 400
+}
